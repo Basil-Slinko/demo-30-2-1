@@ -16,10 +16,11 @@
 
 JavaScript:
 
-`<script src="https://localhost/neuro.sdk.min.js"></script>
-Java (Maven):
-
+```javascript
+<script src="https://localhost/neuro.sdk.min.js"></script>
 ```
+Java (Maven):
+```java
 <dependency>
   <groupId>neuro</groupId>
   <artifactId>sdk</artifactId>
